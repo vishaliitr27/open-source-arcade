@@ -2,11 +2,11 @@ Information Management Group
 Angel Sharma
 Akhil Punia
 Noble Mittal
-Vishal
 Bhoomi Bonal
 Somil Jain
 Nikhil Nagar
 Anshika Arora
+vishal
 Yash Hirani
 Divyansh Agarwal
 Sanjeet Manna
