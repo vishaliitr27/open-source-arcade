@@ -2,6 +2,7 @@ Information Management Group
 Angel Sharma
 Akhil Punia
 Noble Mittal
+Vishal
 Bhoomi Bonal
 Somil Jain
 Nikhil Nagar
@@ -15,4 +16,3 @@ Divij Rawal
 Utsah
 Pranav Konidena
 Saurabh Rana
-Vishal
